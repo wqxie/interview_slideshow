@@ -1,0 +1,19 @@
+.slideshow{
+}
+.slideshow .item{
+}
+.slide-left, .slide-right{
+  cursor: pointer;
+  border: 1px solid black;
+  padding: 10px;
+  display: inline-block;
+}
+.slideshow .slide-navigator{
+  
+}
+.slideshow .slide-navigator .slide-left{
+  
+}
+.slideshow .slide-navigator .slide-right{
+  
+}
